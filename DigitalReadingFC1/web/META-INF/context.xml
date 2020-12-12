@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/DigitalReadingFC1">
+  <Resource auth="Container"
+            driverClassName="com.mysql.jdbc.Driver"
+            maxActive="15" maxIdle="3" maxWait="5000" 
+            name="jdbc/digitalreading" password="" 
+            type="javax.sql.DataSource" 
+            url="jdbc:mysql://localhost:3306/digitalreading"
+            username="root">
+    </Resource>
+</Context>
