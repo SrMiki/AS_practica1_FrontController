@@ -8,10 +8,11 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
 
 ## Repositorio
 
- - DigitalReadingFC1: código fuente de la aplicación
- - Librerias: librerias utilizadas (por si acaso ocurre cualquier problema con ellas, tenerlas a mano)
- - Practica1-FrontController.pdf: pdf del enunciado de la práctica
- - Informe_practica1ASFC.pdf: pdf explicando la práctica junto con lo que se solicitaba en el enunciado
+ - DigitalReadingFC1:  código fuente de la aplicación
+ - Librerias:  librerias utilizadas (por si acaso ocurre cualquier problema con ellas, tenerlas a mano)
+ - Practica1-FrontController:  pdf del enunciado de la práctica
+ - Informe_practica1ASFC:  pdf explicando la práctica junto con lo que se solicitaba en el enunciado
+ - digitalreading.sql:  archivo que contiene los comandos sql para volver a generar la base de datos utilizada en la práctica
 
 ## Herramientas utilizadas
 
