@@ -29,12 +29,12 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
 4) Abrir la herramienta XAMPP e iniciar el módulo de Apache y MySQL (nunca encender el módulo tomcat) 
 
 5) Accedemos a phpMyAdmin:
- a) Escribiendo en el navegador: http://localhost/phpmyadmin/
- b) Haciendo "click" en el botón "admin" del módulo de MySQL
+ - a) Escribiendo en el navegador: http://localhost/phpmyadmin/
+ - b) Haciendo "click" en el botón "admin" del módulo de MySQL
 
 6) Agregamos la Base de Datos 
- a) Utilizando la opción de importar y seleccionamos el fichero "digitalreading.sql"
- b) Creamos un nueva BBDD llamada "digitalreading" y agregamos, a través de comando SQL, las diferentes tablas del fichero "digitalreading.sql" (ojo con las comillas)
+ - a) Utilizando la opción de importar y seleccionamos el fichero "digitalreading.sql"
+ - b) Creamos un nueva BBDD llamada "digitalreading" y agregamos, a través de comando SQL, las diferentes tablas del fichero "digitalreading.sql" (ojo con las comillas)
  - Si creamos solo la Base de Datos con las tablas correspondientes ya funcionaría pero, lógicamente, no habría catálogo ni usuarios.
 
 7) Ejecutamos la applicación (run) en Netbeans. Esperamos a que termine de compilar y cuando el glasfish indique "Loading application DigitalReadingFC1 done" abrimos el navegador http://localhost:8080/DigitalReadingFC1/
