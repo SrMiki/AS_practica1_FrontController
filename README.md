@@ -8,11 +8,8 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
 
 ## Herramientas utilizadas
 
-- Base de datos: SQL utilizando ![phpmyadmin](https://www.phpmyadmin.net/)
-- Servidor: ![glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
 - Entorno de desarrollo: ![Netbeans 8.2](https://netbeans.org/downloads/8.2/rc/) (tip: instalarlo con todo)
-- Heramienta de despligue de la BD de phpmyadmin: ![XAMPP](https://www.apachefriends.org/es/index.html)
-
+- Servidor y base de datos local: ![XAMPP](https://www.apachefriends.org/es/index.html)
 
 ## "Como hacer que funcione"
 
@@ -45,4 +42,6 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
  - Para que esta práctica pueda funcionar hay que utilizar las herramientas indicadas y cargar la base de datos
  - Revisar imports, enlaces y plugins
  - En el "Informe de práctica.pdf" se detallan los diferentes apartados de la práctica
+ - Base de datos: SQL utilizando ![phpmyadmin](https://www.phpmyadmin.net/)
+ - Servidor: ![glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
  
