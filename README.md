@@ -6,7 +6,12 @@ Práctica 1 de la asginatura "Arquitectura del Software" del plan 2010 de la Esc
 El objetivo de esta práctica es el de implementar el patrón Front Controller y el control de sesiones. Se hará uso de las tecnologías de Java EE: Servlet y JSP.
 Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres la cuales escogí "Web 2.0 para la compra y descarga de e-libros".
 
-#### El código fuente de la aplicación se encuentra en la carpeta DigitalReadingFC1
+## Repositorio
+
+ - DigitalReadingFC1: código fuente de la aplicación
+ - Librerias: librerias utilizadas (por si acaso ocurre cualquier problema con ellas, tenerlas a mano)
+ - Practica1-FrontController.pdf: pdf del enunciado de la práctica
+ - Informe_practica1ASFC.pdf: pdf explicando la práctica junto con lo que se solicitaba en el enunciado
 
 ## Herramientas utilizadas
 
