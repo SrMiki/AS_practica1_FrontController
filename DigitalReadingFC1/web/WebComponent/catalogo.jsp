@@ -36,7 +36,7 @@
                 <div class="card bg-blue">
                     <div class="card-header py-3" style="height: 90px">${libro.title} </div>
                     <div class="card-body py-3">
-                        <img class="card-img-top img-responsive" src="${libro.getPortada()}" alt="Card image cap" width="50px" height="25   0px">
+                        <img class="card-img-top img-responsive" src="${libro.getPortada()}" alt="Card image cap" width="50px" height="250px">
 
                             <div class="d-flex justify-content-between align-items-center py-3 px-2">
                                 <div class="btn-group">
