@@ -1,10 +1,12 @@
-Actualizado: 2020-12-23
+Actualizado: 2021-01-09
 
 # AS_practica1_FrontController
 Práctica 1 de la asginatura "Arquitectura del Software" del plan 2010 de la Escuela de Ingeniería Informática de la Universidad de Las Palmas de Gran Canaria.
 
 El objetivo de esta práctica es el de implementar el patrón Front Controller y el control de sesiones. Se hará uso de las tecnologías de Java EE: Servlet y JSP.
 Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres la cuales escogí "Web 2.0 para la compra y descarga de e-libros".
+
+Video de funcionamiento de la aplicación: https://youtu.be/603Cwlb4zP0
 
 ## Repositorio
 
@@ -13,7 +15,6 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
  - *Practica1-FrontController:*  pdf del enunciado de la práctica
  - *Informe_practica1ASFC:*  pdf explicando la práctica junto con lo que se solicitaba en el enunciado
  - *digitalreading.sql:*  archivo que contiene los comandos sql para volver a generar la base de datos utilizada en la práctica
- - *appViewVideo(spanish).mp4* video donde se muestra el funcionamiento de la app (sin entrar en detalles del código)
 
 ## Herramientas utilizadas
 
