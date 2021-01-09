@@ -1,4 +1,4 @@
-Actualizado: 2020-12-20
+Actualizado: 2020-12-23
 
 # AS_practica1_FrontController
 Práctica 1 de la asginatura "Arquitectura del Software" del plan 2010 de la Escuela de Ingeniería Informática de la Universidad de Las Palmas de Gran Canaria.
@@ -13,11 +13,12 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
  - *Practica1-FrontController:*  pdf del enunciado de la práctica
  - *Informe_practica1ASFC:*  pdf explicando la práctica junto con lo que se solicitaba en el enunciado
  - *digitalreading.sql:*  archivo que contiene los comandos sql para volver a generar la base de datos utilizada en la práctica
+ - *appViewVideo(spanish).mp4* video donde se muestra el funcionamiento de la app (sin entrar en detalles del código)
 
 ## Herramientas utilizadas
 
-- Entorno de desarrollo: ![Netbeans 8.2](https://netbeans.org/downloads/8.2/rc/) (tip: instalarlo con todo)
-- Servidor y base de datos local: ![XAMPP](https://www.apachefriends.org/es/index.html)
+- Entorno de desarrollo: [Netbeans 8.2](https://netbeans.org/downloads/8.2/rc/) (tip: instalarlo con todo)
+- Servidor y base de datos local: [XAMPP](https://www.apachefriends.org/es/index.html)
 
 ## "Como hacer que funcione"
 
@@ -50,6 +51,6 @@ Para llevar a cabo el trabajo había que escoger una "idea de proyecto" entres l
  - Para que esta práctica pueda funcionar hay que utilizar las herramientas indicadas y cargar la base de datos
  - Revisar imports, enlaces y plugins
  - En el "Informe de práctica.pdf" se detallan los diferentes apartados de la práctica
- - Base de datos: SQL utilizando ![phpmyadmin](https://www.phpmyadmin.net/)
- - Servidor: ![glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
+ - Base de datos: SQL utilizando [phpmyadmin](https://www.phpmyadmin.net/)
+ - Servidor: [glashfish](https://www.oracle.com/middleware/technologies/glassfish-server.html)
  
